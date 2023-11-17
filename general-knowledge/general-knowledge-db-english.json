@@ -1,0 +1,972 @@
+[
+  {
+    "Question": "Which planet is closest to Earth?",
+    "Options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "CorrectAnswer": "Mercury"
+  },
+  {
+    "Question": "In which year did World War II end?",
+    "Options": [
+      "1945",
+      "1939",
+      "1941",
+      "1948"
+    ],
+    "CorrectAnswer": "1945"
+  },
+  {
+    "Question": "Who wrote 'Romeo and Juliet'?",
+    "Options": [
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "Homer"
+    ],
+    "CorrectAnswer": "William Shakespeare"
+  },
+  {
+    "Question": "What is the longest river in the world?",
+    "Options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "CorrectAnswer": "Amazon"
+  },
+  {
+    "Question": "How many continents are there?",
+    "Options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "CorrectAnswer": "7"
+  },
+  {
+    "Question": "Which element has the chemical symbol 'O'?",
+    "Options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "CorrectAnswer": "Oxygen"
+  },
+  {
+    "Question": "Who painted the Mona Lisa?",
+    "Options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo"
+    ],
+    "CorrectAnswer": "Leonardo da Vinci"
+  },
+  {
+    "Question": "What is the capital of Australia?",
+    "Options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "CorrectAnswer": "Canberra"
+  },
+  {
+    "Question": "How many legs does a spider have?",
+    "Options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "CorrectAnswer": "8"
+  },
+  {
+    "Question": "What is the chemical formula for water?",
+    "Options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "CorrectAnswer": "H2O"
+  },
+  {
+    "Question": "Who wrote 'The Odyssey'?",
+    "Options": [
+      "Homer",
+      "Sophocles",
+      "Euripides",
+      "Aristotle"
+    ],
+    "CorrectAnswer": "Homer"
+  },
+  {
+    "Question": "What is the largest mammal in the world?",
+    "Options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Rhinoceros"
+    ],
+    "CorrectAnswer": "Blue Whale"
+  },
+  {
+    "Question": "Which country has the most population?",
+    "Options": [
+      "India",
+      "China",
+      "USA",
+      "Brazil"
+    ],
+    "CorrectAnswer": "China"
+  },
+  {
+    "Question": "What is the capital of Japan?",
+    "Options": [
+      "Beijing",
+      "Tokyo",
+      "Seoul",
+      "Bangkok"
+    ],
+    "CorrectAnswer": "Tokyo"
+  },
+  {
+    "Question": "Who invented the light bulb?",
+    "Options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Galileo Galilei"
+    ],
+    "CorrectAnswer": "Thomas Edison"
+  },
+  {
+    "Question": "What is the smallest country in the world?",
+    "Options": [
+      "Vatican City",
+      "Monaco",
+      "San Marino",
+      "Nauru"
+    ],
+    "CorrectAnswer": "Vatican City"
+  },
+  {
+    "Question": "In which year did humans first land on the moon?",
+    "Options": [
+      "1965",
+      "1969",
+      "1972",
+      "1975"
+    ],
+    "CorrectAnswer": "1969"
+  },
+  {
+    "Question": "Who wrote 'The Trial'?",
+    "Options": [
+      "Friedrich Nietzsche",
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse"
+    ],
+    "CorrectAnswer": "Franz Kafka"
+  },
+  {
+    "Question": "Which river flows through Egypt?",
+    "Options": [
+      "Nile",
+      "Amazon",
+      "Thames",
+      "Rhine"
+    ],
+    "CorrectAnswer": "Nile"
+  },
+  {
+    "Question": "How many millimeters are in a centimeter?",
+    "Options": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "CorrectAnswer": "10"
+  },
+  {
+    "Question": "Who is the author of 'The Metamorphosis'?",
+    "Options": [
+      "Thomas Mann",
+      "Franz Kafka",
+      "Hermann Hesse",
+      "Friedrich Nietzsche"
+    ],
+    "CorrectAnswer": "Franz Kafka"
+  },
+  {
+    "Question": "What is the smallest prime number?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "CorrectAnswer": "2"
+  },
+  {
+    "Question": "What is the capital of Canada?",
+    "Options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "CorrectAnswer": "Ottawa"
+  },
+  {
+    "Question": "How many years is a term for a US President?",
+    "Options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "CorrectAnswer": "4"
+  },
+  {
+    "Question": "Who wrote 'The Illusions of Progress'?",
+    "Options": [
+      "Karl Marx",
+      "Friedrich Engels",
+      "Albert Einstein",
+      "Sigmund Freud"
+    ],
+    "CorrectAnswer": "Albert Einstein"
+  },
+  {
+    "Question": "Which planet is known as 'the Red Planet'?",
+    "Options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "CorrectAnswer": "Mars"
+  },
+  {
+    "Question": "How many players are there in a football team?",
+    "Options": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "CorrectAnswer": "11"
+  },
+  {
+    "Question": "What is the longest mountain range in the world?",
+    "Options": [
+      "Andes",
+      "Himalayas",
+      "Rocky Mountains",
+      "Alps"
+    ],
+    "CorrectAnswer": "Andes"
+  },
+  {
+    "Question": "Who discovered penicillin?",
+    "Options": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "CorrectAnswer": "Alexander Fleming"
+  },
+  {
+    "Question": "In which year was the Berlin Wall built?",
+    "Options": [
+      "1955",
+      "1961",
+      "1971",
+      "1981"
+    ],
+    "CorrectAnswer": "1961"
+  },
+  {
+    "Question": "What is the second-largest country in the world?",
+    "Options": [
+      "Russia",
+      "Canada",
+      "USA",
+      "China"
+    ],
+    "CorrectAnswer": "Canada"
+  },
+  {
+    "Question": "Who painted 'Starry Night'?",
+    "Options": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "CorrectAnswer": "Vincent van Gogh"
+  },
+  {
+    "Question": "Which currency is used in Japan?",
+    "Options": [
+      "Won",
+      "Yen",
+      "Baht",
+      "Ringgit"
+    ],
+    "CorrectAnswer": "Yen"
+  },
+  {
+    "Question": "What is the study of birds called?",
+    "Options": [
+      "Ornithology",
+      "Herpetology",
+      "Entomology",
+      "Ichthyology"
+    ],
+    "CorrectAnswer": "Ornithology"
+  },
+  {
+    "Question": "What is the smallest element in the periodic table?",
+    "Options": [
+      "Helium",
+      "Lithium",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "CorrectAnswer": "Hydrogen"
+  },
+  {
+    "Question": "Who wrote '1984'?",
+    "Options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Margaret Atwood"
+    ],
+    "CorrectAnswer": "George Orwell"
+  },
+  {
+    "Question": "Which ocean is between Africa and Australia?",
+    "Options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "CorrectAnswer": "Indian Ocean"
+  },
+  {
+    "Question": "Which astronaut was the first person on the Moon?",
+    "Options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "CorrectAnswer": "Neil Armstrong"
+  },
+  {
+    "Question": "What is the main ingredient in Guacamole?",
+    "Options": [
+      "Tomatoes",
+      "Avocado",
+      "Onions",
+      "Cilantro"
+    ],
+    "CorrectAnswer": "Avocado"
+  },
+  {
+    "Question": "Who wrote 'To Kill a Mockingbird'?",
+    "Options": [
+      "Harper Lee",
+      "J.K. Rowling",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "CorrectAnswer": "Harper Lee"
+  },
+  {
+    "Question": "What is the largest desert in the world?",
+    "Options": [
+      "Sahara Desert",
+      "Antarctica",
+      "Arabian Desert",
+      "Gobi Desert"
+    ],
+    "CorrectAnswer": "Antarctica"
+  },
+  {
+    "Question": "In which year did the Titanic sink?",
+    "Options": [
+      "1912",
+      "1905",
+      "1920",
+      "1917"
+    ],
+    "CorrectAnswer": "1912"
+  },
+  {
+    "Question": "Who is known as the 'Father of Computers'?",
+    "Options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Ada Lovelace",
+      "John von Neumann"
+    ],
+    "CorrectAnswer": "Charles Babbage"
+  },
+  {
+    "Question": "What is the currency of Brazil?",
+    "Options": [
+      "Peso",
+      "Real",
+      "Ruble",
+      "Dinar"
+    ],
+    "CorrectAnswer": "Real"
+  },
+  {
+    "Question": "Which famous scientist developed the theory of general relativity?",
+    "Options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "CorrectAnswer": "Albert Einstein"
+  },
+  {
+    "Question": "In what year did the Berlin Wall fall?",
+    "Options": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "CorrectAnswer": "1989"
+  },
+  {
+    "Question": "Who painted 'The Persistence of Memory'?",
+    "Options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "CorrectAnswer": "Salvador Dalí"
+  },
+  {
+    "Question": "What is the capital of South Korea?",
+    "Options": [
+      "Seoul",
+      "Tokyo",
+      "Beijing",
+      "Bangkok"
+    ],
+    "CorrectAnswer": "Seoul"
+  },
+  {
+    "Question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "Options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "CorrectAnswer": "Venus"
+  },
+  {
+    "Question": "What is the largest mammal on land?",
+    "Options": [
+      "Elephant",
+      "Giraffe",
+      "Hippopotamus",
+      "Rhino"
+    ],
+    "CorrectAnswer": "Elephant"
+  },
+  {
+    "Question": "Which element has the chemical symbol 'Fe'?",
+    "Options": [
+      "Iron",
+      "Gold",
+      "Silver",
+      "Copper"
+    ],
+    "CorrectAnswer": "Iron"
+  },
+  {
+    "Question": "Who was the first woman to win a Nobel Prize?",
+    "Options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Crowfoot Hodgkin",
+      "Jane Goodall"
+    ],
+    "CorrectAnswer": "Marie Curie"
+  },
+  {
+    "Question": "In which country did the Renaissance begin?",
+    "Options": [
+      "Italy",
+      "France",
+      "Spain",
+      "England"
+    ],
+    "CorrectAnswer": "Italy"
+  },
+  {
+    "Question": "What is the capital of New Zealand?",
+    "Options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "CorrectAnswer": "Wellington"
+  },
+  {
+    "Question": "Who discovered penicillin?",
+    "Options": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "CorrectAnswer": "Alexander Fleming"
+  },
+  {
+    "Question": "What is the largest ocean on Earth?",
+    "Options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "CorrectAnswer": "Pacific Ocean"
+  },
+  {
+    "Question": "Which famous physicist developed the theory of quantum mechanics?",
+    "Options": [
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr",
+      "Werner Heisenberg"
+    ],
+    "CorrectAnswer": "Niels Bohr"
+  },
+  {
+    "Question": "In which year did the American Civil War end?",
+    "Options": [
+      "1863",
+      "1865",
+      "1870",
+      "1880"
+    ],
+    "CorrectAnswer": "1865"
+  },
+  {
+    "Question": "Who wrote 'The Trial'?",
+    "Options": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Friedrich Nietzsche"
+    ],
+    "CorrectAnswer": "Franz Kafka"
+  },
+  {
+    "Question": "What is the capital of Mexico?",
+    "Options": [
+      "Buenos Aires",
+      "Lima",
+      "Bogotá",
+      "Mexico City"
+    ],
+    "CorrectAnswer": "Mexico City"
+  },
+  {
+    "Question": "In which year was the Magna Carta signed?",
+    "Options": [
+      "1215",
+      "1300",
+      "1401",
+      "1100"
+    ],
+    "CorrectAnswer": "1215"
+  },
+  {
+    "Question": "What is the smallest country in Africa?",
+    "Options": [
+      "Nigeria",
+      "Seychelles",
+      "Lesotho",
+      "Gambia"
+    ],
+    "CorrectAnswer": "Seychelles"
+  },
+  {
+    "Question": "Who invented the periodic table of elements?",
+    "Options": [
+      "Dmitri Mendeleev",
+      "Marie Curie",
+      "Robert Boyle",
+      "Niels Bohr"
+    ],
+    "CorrectAnswer": "Dmitri Mendeleev"
+  },
+  {
+    "Question": "What is the oldest wonder of the world?",
+    "Options": [
+      "Pyramids of Giza",
+      "Hanging Gardens of Babylon",
+      "Statue of Zeus at Olympia",
+      "Temple of Artemis at Ephesus"
+    ],
+    "CorrectAnswer": "Pyramids of Giza"
+  },
+  {
+    "Question": "In which year was the United Nations founded?",
+    "Options": [
+      "1943",
+      "1945",
+      "1950",
+      "1960"
+    ],
+    "CorrectAnswer": "1945"
+  },
+  {
+    "Question": "Who wrote 'The Art of War'?",
+    "Options": [
+      "Sun Tzu",
+      "Machiavelli",
+      "Clausewitz",
+      "Mao Zedong"
+    ],
+    "CorrectAnswer": "Sun Tzu"
+  },
+  {
+    "Question": "Which river flows through Paris?",
+    "Options": [
+      "Rhine",
+      "Thames",
+      "Seine",
+      "Po"
+    ],
+    "CorrectAnswer": "Seine"
+  },
+  {
+    "Question": "Who was the first human in space?",
+    "Options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Valentina Tereshkova"
+    ],
+    "CorrectAnswer": "Yuri Gagarin"
+  },
+  {
+    "Question": "What is the longest epic poem in the world?",
+    "Options": [
+      "Iliad",
+      "Mahabharata",
+      "Beowulf",
+      "Odyssey"
+    ],
+    "CorrectAnswer": "Mahabharata"
+  },
+  {
+    "Question": "In which year was the European Union founded?",
+    "Options": [
+      "1957",
+      "1965",
+      "1973",
+      "1981"
+    ],
+    "CorrectAnswer": "1957"
+  },
+  {
+    "Question": "What is the main component of the Earth's atmosphere?",
+    "Options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "CorrectAnswer": "Nitrogen"
+  },
+  {
+    "Question": "Which is the highest mountain in North America?",
+    "Options": [
+      "Mount Everest",
+      "Denali",
+      "K2",
+      "Mont Blanc"
+    ],
+    "CorrectAnswer": "Denali"
+  },
+  {
+    "Question": "Which artist created 'The Birth of Venus'?",
+    "Options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Sandro Botticelli",
+      "Michelangelo"
+    ],
+    "CorrectAnswer": "Sandro Botticelli"
+  },
+  {
+    "Question": "What is the smallest mammal in the world?",
+    "Options": [
+      "Mouse",
+      "Squirrel",
+      "Bat",
+      "Hamster"
+    ],
+    "CorrectAnswer": "Bat"
+  },
+  {
+    "Question": "Who wrote 'The Little Prince'?",
+    "Options": [
+      "Antoine de Saint-Exupéry",
+      "Jules Verne",
+      "Mark Twain",
+      "Hans Christian Andersen"
+    ],
+    "CorrectAnswer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "Question": "In which year did the Berlin Wall fall?",
+    "Options": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "CorrectAnswer": "1989"
+  },
+  {
+    "Question": "What is the oldest existing structure in the world?",
+    "Options": [
+      "Stonehenge",
+      "Pyramids of Giza",
+      "Sphinx",
+      "Temples of Ggantija"
+    ],
+    "CorrectAnswer": "Temples of Ggantija"
+  },
+  {
+    "Question": "What is the capital of Canada?",
+    "Options": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "CorrectAnswer": "Ottawa"
+  },
+  {
+    "Question": "Who wrote 'The Great Gatsby'?",
+    "Options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "CorrectAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "Question": "Which country is known as the Land of the Rising Sun?",
+    "Options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Vietnam"
+    ],
+    "CorrectAnswer": "Japan"
+  },
+  {
+    "Question": "In which year did World War I begin?",
+    "Options": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "CorrectAnswer": "1914"
+  },
+  {
+    "Question": "Who is the author of 'Pride and Prejudice'?",
+    "Options": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Emily Brontë",
+      "Charles Dickens"
+    ],
+    "CorrectAnswer": "Jane Austen"
+  },
+  {
+    "Question": "What is the currency of Australia?",
+    "Options": [
+      "Pound",
+      "Euro",
+      "Dollar",
+      "Yen"
+    ],
+    "CorrectAnswer": "Dollar"
+  },
+  {
+    "Question": "Who developed the theory of relativity?",
+    "Options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "CorrectAnswer": "Albert Einstein"
+  },
+  {
+    "Question": "In which year did World War II end?",
+    "Options": [
+      "1943",
+      "1945",
+      "1947",
+      "1950"
+    ],
+    "CorrectAnswer": "1945"
+  },
+  {
+    "Question": "Who painted the Mona Lisa?",
+    "Options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "CorrectAnswer": "Leonardo da Vinci"
+  },
+  {
+    "Question": "What is the largest planet in our solar system?",
+    "Options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "CorrectAnswer": "Jupiter"
+  },
+  {
+    "Question": "Which scientist proposed the heliocentric model of the solar system?",
+    "Options": [
+      "Copernicus",
+      "Galileo Galilei",
+      "Kepler",
+      "Newton"
+    ],
+    "CorrectAnswer": "Copernicus"
+  },
+  {
+    "Question": "Who wrote 'Romeo and Juliet'?",
+    "Options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "CorrectAnswer": "William Shakespeare"
+  },
+  {
+    "Question": "What is the capital of Brazil?",
+    "Options": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador"
+    ],
+    "CorrectAnswer": "Brasília"
+  },
+  {
+    "Question": "Which element has the chemical symbol 'Na'?",
+    "Options": [
+      "Nitrogen",
+      "Neon",
+      "Sodium",
+      "Nickel"
+    ],
+    "CorrectAnswer": "Sodium"
+  },
+  {
+    "Question": "Who won the Nobel Prize for Peace in 2020?",
+    "Options": [
+      "Greta Thunberg",
+      "Malala Yousafzai",
+      "Abiy Ahmed",
+      "Donald Trump"
+    ],
+    "CorrectAnswer": "World Food Programme"
+  },
+  {
+    "Question": "Which ocean is the largest?",
+    "Options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "CorrectAnswer": "Pacific Ocean"
+  },
+  {
+    "Question": "Who invented the telephone?",
+    "Options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "CorrectAnswer": "Alexander Graham Bell"
+  },
+  {
+    "Question": "What is the largest mammal on Earth?",
+    "Options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "CorrectAnswer": "Blue Whale"
+  },
+  {
+    "Question": "Who wrote 'The Canterbury Tales'?",
+    "Options": [
+      "Geoffrey Chaucer",
+      "William Wordsworth",
+      "John Milton",
+      "Emily Brontë"
+    ],
+    "CorrectAnswer": "Geoffrey Chaucer"
+  },
+  {
+    "Question": "In which year did the Renaissance begin?",
+    "Options": [
+      "1350",
+      "1450",
+      "1550",
+      "1650"
+    ],
+    "CorrectAnswer": "1450"
+  }
+]

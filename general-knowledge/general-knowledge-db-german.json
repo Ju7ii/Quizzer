@@ -1,0 +1,972 @@
+[
+  {
+    "Frage": "Welcher Planet ist der Erde am nächsten?",
+    "Antworten": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Merkur"
+    ],
+    "RichtigeAntwort": "Merkur"
+  },
+  {
+    "Frage": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "Antworten": [
+      "1945",
+      "1939",
+      "1941",
+      "1948"
+    ],
+    "RichtigeAntwort": "1945"
+  },
+  {
+    "Frage": "Wer schrieb 'Romeo und Julia'?",
+    "Antworten": [
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "Homer"
+    ],
+    "RichtigeAntwort": "William Shakespeare"
+  },
+  {
+    "Frage": "Welches ist das längste Fluss der Welt?",
+    "Antworten": [
+      "Nil",
+      "Amazonas",
+      "Jangtse",
+      "Mississippi"
+    ],
+    "RichtigeAntwort": "Amazonas"
+  },
+  {
+    "Frage": "Wie viele Kontinente gibt es?",
+    "Antworten": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "RichtigeAntwort": "7"
+  },
+  {
+    "Frage": "Welches Element hat die chemische Abkürzung 'O'?",
+    "Antworten": [
+      "Sauerstoff",
+      "Wasserstoff",
+      "Kohlenstoff",
+      "Stickstoff"
+    ],
+    "RichtigeAntwort": "Sauerstoff"
+  },
+  {
+    "Frage": "Wer malte die Mona Lisa?",
+    "Antworten": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo"
+    ],
+    "RichtigeAntwort": "Leonardo da Vinci"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Australien?",
+    "Antworten": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "RichtigeAntwort": "Canberra"
+  },
+  {
+    "Frage": "Wie viele Beine hat ein Spinnen?",
+    "Antworten": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "RichtigeAntwort": "8"
+  },
+  {
+    "Frage": "Was ist die chemische Formel für Wasser?",
+    "Antworten": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "RichtigeAntwort": "H2O"
+  },
+  {
+    "Frage": "Wer schrieb 'Die Odyssee'?",
+    "Antworten": [
+      "Homer",
+      "Sophokles",
+      "Euripides",
+      "Aristoteles"
+    ],
+    "RichtigeAntwort": "Homer"
+  },
+  {
+    "Frage": "Welches ist das größte Säugetier der Welt?",
+    "Antworten": [
+      "Elefant",
+      "Blauwal",
+      "Giraffe",
+      "Nashorn"
+    ],
+    "RichtigeAntwort": "Blauwal"
+  },
+  {
+    "Frage": "Welches Land hat die meisten Einwohner?",
+    "Antworten": [
+      "Indien",
+      "China",
+      "USA",
+      "Brasilien"
+    ],
+    "RichtigeAntwort": "China"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Japan?",
+    "Antworten": [
+      "Beijing",
+      "Tokyo",
+      "Seoul",
+      "Bangkok"
+    ],
+    "RichtigeAntwort": "Tokyo"
+  },
+  {
+    "Frage": "Wer erfand die Glühbirne?",
+    "Antworten": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Galileo Galilei"
+    ],
+    "RichtigeAntwort": "Thomas Edison"
+  },
+  {
+    "Frage": "Welches ist das kleinste Land der Welt?",
+    "Antworten": [
+      "Vatikanstadt",
+      "Monaco",
+      "San Marino",
+      "Nauru"
+    ],
+    "RichtigeAntwort": "Vatikanstadt"
+  },
+  {
+    "Frage": "In welchem Jahr landete der Mensch erstmals auf dem Mond?",
+    "Antworten": [
+      "1965",
+      "1969",
+      "1972",
+      "1975"
+    ],
+    "RichtigeAntwort": "1969"
+  },
+  {
+    "Frage": "Wer schrieb 'Der Prozess'?",
+    "Antworten": [
+      "Friedrich Nietzsche",
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse"
+    ],
+    "RichtigeAntwort": "Franz Kafka"
+  },
+  {
+    "Frage": "Welcher Fluss fließt durch Ägypten?",
+    "Antworten": [
+      "Nil",
+      "Amazonas",
+      "Themse",
+      "Rhein"
+    ],
+    "RichtigeAntwort": "Nil"
+  },
+  {
+    "Frage": "Wie viele Millimeter sind ein Zentimeter?",
+    "Antworten": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "RichtigeAntwort": "10"
+  },
+  {
+    "Frage": "Wer ist der Verfasser von 'Die Verwandlung'?",
+    "Antworten": [
+      "Thomas Mann",
+      "Franz Kafka",
+      "Hermann Hesse",
+      "Friedrich Nietzsche"
+    ],
+    "RichtigeAntwort": "Franz Kafka"
+  },
+  {
+    "Frage": "Welches ist das kleinste Primzahl?",
+    "Antworten": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "RichtigeAntwort": "2"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Kanada?",
+    "Antworten": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "RichtigeAntwort": "Ottawa"
+  },
+  {
+    "Frage": "Wie viele Jahre dauert eine Amtszeit des US-Präsidenten?",
+    "Antworten": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "RichtigeAntwort": "4"
+  },
+  {
+    "Frage": "Wer schrieb 'Die Illusionen des Fortschritts'?",
+    "Antworten": [
+      "Karl Marx",
+      "Friedrich Engels",
+      "Albert Einstein",
+      "Sigmund Freud"
+    ],
+    "RichtigeAntwort": "Albert Einstein"
+  },
+  {
+    "Frage": "Welcher Planet ist als 'der Rote Planet' bekannt?",
+    "Antworten": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "RichtigeAntwort": "Mars"
+  },
+  {
+    "Frage": "Wie viele Spieler gibt es in einer Fußballmannschaft?",
+    "Antworten": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "RichtigeAntwort": "11"
+  },
+  {
+    "Frage": "Welches ist das längste Gebirge der Welt?",
+    "Antworten": [
+      "Anden",
+      "Himalaya",
+      "Rocky Mountains",
+      "Alpen"
+    ],
+    "RichtigeAntwort": "Anden"
+  },
+  {
+    "Frage": "Wer entdeckte Penicillin?",
+    "Antworten": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "RichtigeAntwort": "Alexander Fleming"
+  },
+  {
+    "Frage": "In welchem Jahr wurde die Berliner Mauer errichtet?",
+    "Antworten": [
+      "1955",
+      "1961",
+      "1971",
+      "1981"
+    ],
+    "RichtigeAntwort": "1961"
+  },
+  {
+    "Frage": "Welches ist das zweitgrößte Land der Welt?",
+    "Antworten": [
+      "Russland",
+      "Kanada",
+      "USA",
+      "China"
+    ],
+    "RichtigeAntwort": "Kanada"
+  },
+  {
+    "Frage": "Wer malte 'Die Sternennacht'?",
+    "Antworten": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "RichtigeAntwort": "Vincent van Gogh"
+  },
+  {
+    "Frage": "Welche Währung wird in Japan verwendet?",
+    "Antworten": [
+      "Won",
+      "Yen",
+      "Baht",
+      "Ringgit"
+    ],
+    "RichtigeAntwort": "Yen"
+  },
+  {
+    "Frage": "Wie nennt man die Studie der Vogelkunde?",
+    "Antworten": [
+      "Ornithologie",
+      "Herpetologie",
+      "Entomologie",
+      "Ichthyologie"
+    ],
+    "RichtigeAntwort": "Ornithologie"
+  },
+  {
+    "Frage": "Welches ist das kleinste Element im Periodensystem?",
+    "Antworten": [
+      "Helium",
+      "Lithium",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "RichtigeAntwort": "Hydrogen"
+  },
+  {
+    "Frage": "Wer schrieb '1984'?",
+    "Antworten": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Margaret Atwood"
+    ],
+    "RichtigeAntwort": "George Orwell"
+  },
+  {
+    "Frage": "Welcher Ozean liegt zwischen Afrika und Australien?",
+    "Antworten": [
+      "Atlantischer Ozean",
+      "Pazifischer Ozean",
+      "Indischer Ozean",
+      "Südlicher Ozean"
+    ],
+    "RichtigeAntwort": "Indischer Ozean"
+  },
+  {
+    "Frage": "Welcher Astronaut war der erste Mensch auf dem Mond?",
+    "Antworten": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "RichtigeAntwort": "Neil Armstrong"
+  },
+  {
+    "Frage": "Was ist die Hauptzutat in Guacamole?",
+    "Antworten": [
+      "Tomaten",
+      "Avocado",
+      "Zwiebeln",
+      "Koriander"
+    ],
+    "RichtigeAntwort": "Avocado"
+  },
+  {
+    "Frage": "Wer schrieb 'To Kill a Mockingbird'?",
+    "Antworten": [
+      "Harper Lee",
+      "J.K. Rowling",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "RichtigeAntwort": "Harper Lee"
+  },
+  {
+    "Frage": "Was ist die größte Wüste der Welt?",
+    "Antworten": [
+      "Sahara-Wüste",
+      "Antarktis",
+      "Arabische Wüste",
+      "Gobi-Wüste"
+    ],
+    "RichtigeAntwort": "Antarktis"
+  },
+  {
+    "Frage": "In welchem Jahr ist die Titanic gesunken?",
+    "Antworten": [
+      "1912",
+      "1905",
+      "1920",
+      "1917"
+    ],
+    "RichtigeAntwort": "1912"
+  },
+  {
+    "Frage": "Wer wird als der 'Vater der Computer' bezeichnet?",
+    "Antworten": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Ada Lovelace",
+      "John von Neumann"
+    ],
+    "RichtigeAntwort": "Charles Babbage"
+  },
+  {
+    "Frage": "Was ist die Währung von Brasilien?",
+    "Antworten": [
+      "Peso",
+      "Real",
+      "Rubel",
+      "Dinar"
+    ],
+    "RichtigeAntwort": "Real"
+  },
+  {
+    "Frage": "Welcher berühmte Wissenschaftler entwickelte die Relativitätstheorie?",
+    "Antworten": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "RichtigeAntwort": "Albert Einstein"
+  },
+  {
+    "Frage": "In welchem Jahr fiel die Berliner Mauer?",
+    "Antworten": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "RichtigeAntwort": "1989"
+  },
+  {
+    "Frage": "Wer malte 'Die Beständigkeit der Erinnerung'?",
+    "Antworten": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "RichtigeAntwort": "Salvador Dalí"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Südkorea?",
+    "Antworten": [
+      "Seoul",
+      "Tokio",
+      "Peking",
+      "Bangkok"
+    ],
+    "RichtigeAntwort": "Seoul"
+  },
+  {
+    "Frage": "Welcher Planet wird als 'Morgenstern' oder 'Abendstern' bezeichnet?",
+    "Antworten": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "RichtigeAntwort": "Venus"
+  },
+  {
+    "Frage": "Was ist das größte Säugetier an Land?",
+    "Antworten": [
+      "Elefant",
+      "Giraffe",
+      "Flusspferd",
+      "Nashorn"
+    ],
+    "RichtigeAntwort": "Elefant"
+  },
+  {
+    "Frage": "Welches Element hat das chemische Symbol 'Fe'?",
+    "Antworten": [
+      "Eisen",
+      "Gold",
+      "Silber",
+      "Kupfer"
+    ],
+    "RichtigeAntwort": "Eisen"
+  },
+  {
+    "Frage": "Wer war die erste Frau, die einen Nobelpreis gewann?",
+    "Antworten": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Crowfoot Hodgkin",
+      "Jane Goodall"
+    ],
+    "RichtigeAntwort": "Marie Curie"
+  },
+  {
+    "Frage": "In welchem Land begann die Renaissance?",
+    "Antworten": [
+      "Italien",
+      "Frankreich",
+      "Spanien",
+      "England"
+    ],
+    "RichtigeAntwort": "Italien"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Neuseeland?",
+    "Antworten": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "RichtigeAntwort": "Wellington"
+  },
+  {
+    "Frage": "Wer entdeckte Penicillin?",
+    "Antworten": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "RichtigeAntwort": "Alexander Fleming"
+  },
+  {
+    "Frage": "Was ist der größte Ozean auf der Erde?",
+    "Antworten": [
+      "Atlantischer Ozean",
+      "Indischer Ozean",
+      "Pazifischer Ozean",
+      "Südlicher Ozean"
+    ],
+    "RichtigeAntwort": "Pazifischer Ozean"
+  },
+  {
+    "Frage": "Welcher berühmte Physiker entwickelte die Quantenmechanik?",
+    "Antworten": [
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr",
+      "Werner Heisenberg"
+    ],
+    "RichtigeAntwort": "Niels Bohr"
+  },
+  {
+    "Frage": "In welchem Jahr endete der Amerikanische Bürgerkrieg?",
+    "Antworten": [
+      "1863",
+      "1865",
+      "1870",
+      "1880"
+    ],
+    "RichtigeAntwort": "1865"
+  },
+  {
+    "Frage": "Wer schrieb 'Der Prozess'?",
+    "Antworten": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Friedrich Nietzsche"
+    ],
+    "RichtigeAntwort": "Franz Kafka"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Mexiko?",
+    "Antworten": [
+      "Buenos Aires",
+      "Lima",
+      "Bogotá",
+      "Mexiko-Stadt"
+    ],
+    "RichtigeAntwort": "Mexiko-Stadt"
+  },
+  {
+    "Frage": "In welchem Jahr wurde die Magna Carta unterzeichnet?",
+    "Antworten": [
+      "1215",
+      "1300",
+      "1401",
+      "1100"
+    ],
+    "RichtigeAntwort": "1215"
+  },
+  {
+    "Frage": "Welches ist das kleinste Land in Afrika?",
+    "Antworten": [
+      "Nigeria",
+      "Seychellen",
+      "Lesotho",
+      "Gambia"
+    ],
+    "RichtigeAntwort": "Seychellen"
+  },
+  {
+    "Frage": "Wer erfand das Periodensystem der Elemente?",
+    "Antworten": [
+      "Dmitri Mendelejew",
+      "Marie Curie",
+      "Robert Boyle",
+      "Niels Bohr"
+    ],
+    "RichtigeAntwort": "Dmitri Mendelejew"
+  },
+  {
+    "Frage": "Welches ist das älteste Weltwunder?",
+    "Antworten": [
+      "Pyramiden von Gizeh",
+      "Hängende Gärten von Babylon",
+      "Zeusstatue in Olympia",
+      "Artemistempel in Ephesos"
+    ],
+    "RichtigeAntwort": "Pyramiden von Gizeh"
+  },
+  {
+    "Frage": "In welchem Jahr wurde die UNO gegründet?",
+    "Antworten": [
+      "1943",
+      "1945",
+      "1950",
+      "1960"
+    ],
+    "RichtigeAntwort": "1945"
+  },
+  {
+    "Frage": "Wer schrieb 'Die Kunst des Krieges'?",
+    "Antworten": [
+      "Sunzi",
+      "Machiavelli",
+      "Clausewitz",
+      "Mao Zedong"
+    ],
+    "RichtigeAntwort": "Sunzi"
+  },
+  {
+    "Frage": "Welcher Fluss fließt durch Paris?",
+    "Antworten": [
+      "Rhein",
+      "Themse",
+      "Seine",
+      "Po"
+    ],
+    "RichtigeAntwort": "Seine"
+  },
+  {
+    "Frage": "Wer war der erste Mensch im Weltraum?",
+    "Antworten": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Valentina Tereshkova"
+    ],
+    "RichtigeAntwort": "Yuri Gagarin"
+  },
+  {
+    "Frage": "Welches ist das längste Gedicht der Welt?",
+    "Antworten": [
+      "Ilias",
+      "Mahabharata",
+      "Beowulf",
+      "Odyssee"
+    ],
+    "RichtigeAntwort": "Mahabharata"
+  },
+  {
+    "Frage": "In welchem Jahr wurde die Europäische Union gegründet?",
+    "Antworten": [
+      "1957",
+      "1965",
+      "1973",
+      "1981"
+    ],
+    "RichtigeAntwort": "1957"
+  },
+  {
+    "Frage": "Was ist der Hauptbestandteil der Atmosphäre der Erde?",
+    "Antworten": [
+      "Sauerstoff",
+      "Stickstoff",
+      "Kohlenstoffdioxid",
+      "Wasserstoff"
+    ],
+    "RichtigeAntwort": "Stickstoff"
+  },
+  {
+    "Frage": "Welcher Berg ist der höchste in Nordamerika?",
+    "Antworten": [
+      "Mount Everest",
+      "Denali",
+      "K2",
+      "Mont Blanc"
+    ],
+    "RichtigeAntwort": "Denali"
+  },
+  {
+    "Frage": "Welcher Künstler schuf 'Die Geburt der Venus'?",
+    "Antworten": [
+      "Leonardo da Vinci",
+      "Raffael",
+      "Sandro Botticelli",
+      "Michelangelo"
+    ],
+    "RichtigeAntwort": "Sandro Botticelli"
+  },
+  {
+    "Frage": "Welches ist das kleinste Säugetier der Welt?",
+    "Antworten": [
+      "Maus",
+      "Eichhörnchen",
+      "Fledermaus",
+      "Hamster"
+    ],
+    "RichtigeAntwort": "Fledermaus"
+  },
+  {
+    "Frage": "Wer schrieb 'Der kleine Prinz'?",
+    "Antworten": [
+      "Antoine de Saint-Exupéry",
+      "Jules Verne",
+      "Mark Twain",
+      "Hans Christian Andersen"
+    ],
+    "RichtigeAntwort": "Antoine de Saint-Exupéry"
+  },
+  {
+    "Frage": "In welchem Jahr fiel die Berliner Mauer?",
+    "Antworten": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "RichtigeAntwort": "1989"
+  },
+  {
+    "Frage": "Welches ist das älteste existierende Bauwerk der Welt?",
+    "Antworten": [
+      "Stonehenge",
+      "Pyramiden von Gizeh",
+      "Sphinx",
+      "Tempel von Ggantija"
+    ],
+    "RichtigeAntwort": "Tempel von Ggantija"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Kanada?",
+    "Antworten": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "RichtigeAntwort": "Ottawa"
+  },
+  {
+    "Frage": "Wer schrieb 'Der große Gatsby'?",
+    "Antworten": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "RichtigeAntwort": "F. Scott Fitzgerald"
+  },
+  {
+    "Frage": "Welches Land wird als das Land der aufgehenden Sonne bezeichnet?",
+    "Antworten": [
+      "China",
+      "Japan",
+      "Südkorea",
+      "Vietnam"
+    ],
+    "RichtigeAntwort": "Japan"
+  },
+  {
+    "Frage": "In welchem Jahr begann der Erste Weltkrieg?",
+    "Antworten": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "RichtigeAntwort": "1914"
+  },
+  {
+    "Frage": "Wer ist der Autor von 'Stolz und Vorurteil'?",
+    "Antworten": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Emily Brontë",
+      "Charles Dickens"
+    ],
+    "RichtigeAntwort": "Jane Austen"
+  },
+  {
+    "Frage": "Was ist die Währung von Australien?",
+    "Antworten": [
+      "Pfund",
+      "Euro",
+      "Dollar",
+      "Yen"
+    ],
+    "RichtigeAntwort": "Dollar"
+  },
+  {
+    "Frage": "Wer entwickelte die Relativitätstheorie?",
+    "Antworten": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "RichtigeAntwort": "Albert Einstein"
+  },
+  {
+    "Frage": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "Antworten": [
+      "1943",
+      "1945",
+      "1947",
+      "1950"
+    ],
+    "RichtigeAntwort": "1945"
+  },
+  {
+    "Frage": "Wer malte die Mona Lisa?",
+    "Antworten": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "RichtigeAntwort": "Leonardo da Vinci"
+  },
+  {
+    "Frage": "Welcher ist der größte Planet in unserem Sonnensystem?",
+    "Antworten": [
+      "Erde",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "RichtigeAntwort": "Jupiter"
+  },
+  {
+    "Frage": "Welcher Wissenschaftler schlug das heliozentrische Modell des Sonnensystems vor?",
+    "Antworten": [
+      "Kopernikus",
+      "Galileo Galilei",
+      "Kepler",
+      "Newton"
+    ],
+    "RichtigeAntwort": "Kopernikus"
+  },
+  {
+    "Frage": "Wer schrieb 'Romeo und Julia'?",
+    "Antworten": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "RichtigeAntwort": "William Shakespeare"
+  },
+  {
+    "Frage": "Was ist die Hauptstadt von Brasilien?",
+    "Antworten": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador"
+    ],
+    "RichtigeAntwort": "Brasília"
+  },
+  {
+    "Frage": "Welches Element hat das chemische Symbol 'Na'?",
+    "Antworten": [
+      "Stickstoff",
+      "Neon",
+      "Natrium",
+      "Nickel"
+    ],
+    "RichtigeAntwort": "Natrium"
+  },
+  {
+    "Frage": "Wer gewann den Friedensnobelpreis im Jahr 2020?",
+    "Antworten": [
+      "Greta Thunberg",
+      "Malala Yousafzai",
+      "Abiy Ahmed",
+      "Donald Trump"
+    ],
+    "RichtigeAntwort": "Welternährungsprogramm"
+  },
+  {
+    "Frage": "Welcher Ozean ist der größte?",
+    "Antworten": [
+      "Atlantischer Ozean",
+      "Indischer Ozean",
+      "Pazifischer Ozean",
+      "Südlicher Ozean"
+    ],
+    "RichtigeAntwort": "Pazifischer Ozean"
+  },
+  {
+    "Frage": "Wer erfand das Telefon?",
+    "Antworten": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "RichtigeAntwort": "Alexander Graham Bell"
+  },
+  {
+    "Frage": "Was ist das größte Säugetier auf der Erde?",
+    "Antworten": [
+      "Elefant",
+      "Blauwal",
+      "Giraffe",
+      "Flusspferd"
+    ],
+    "RichtigeAntwort": "Blauwal"
+  },
+  {
+    "Frage": "Wer schrieb 'Die Canterbury-Erzählungen'?",
+    "Antworten": [
+      "Geoffrey Chaucer",
+      "William Wordsworth",
+      "John Milton",
+      "Emily Brontë"
+    ],
+    "RichtigeAntwort": "Geoffrey Chaucer"
+  },
+  {
+    "Frage": "In welchem Jahr begann die Renaissance?",
+    "Antworten": [
+      "1350",
+      "1450",
+      "1550",
+      "1650"
+    ],
+    "RichtigeAntwort": "1450"
+  }
+]

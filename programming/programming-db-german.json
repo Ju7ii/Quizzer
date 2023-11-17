@@ -1,0 +1,742 @@
+[
+    {
+        "Frage": "Was ist ein Compiler?",
+        "Antworten": [
+            "Ein Programm, das Quellcode in Maschinencode übersetzt",
+            "Ein Texteditor",
+            "Ein Debugger",
+            "Ein Linker"
+        ],
+        "RichtigeAntwort": "Ein Programm, das Quellcode in Maschinencode übersetzt"
+    },
+    {
+        "Frage": "Was ist ein Array in der Programmierung?",
+        "Antworten": [
+            "Ein Datentyp für Gleitkommazahlen",
+            "Ein containerartiges Objekt, das eine Sammlung von Elementen enthält",
+            "Ein Operator für bedingte Anweisungen",
+            "Ein Speicherelement für temporäre Variablen"
+        ],
+        "RichtigeAntwort": "Ein containerartiges Objekt, das eine Sammlung von Elementen enthält"
+    },
+    {
+        "Frage": "Welche Funktion hat HTML in der Webentwicklung?",
+        "Antworten": [
+            "Datenbankabfragen durchführen",
+            "Styling von Webseiten",
+            "Programmierung von serverseitiger Logik",
+            "Strukturierung von Webinhalten"
+        ],
+        "RichtigeAntwort": "Strukturierung von Webinhalten"
+    },
+    {
+        "Frage": "Was bedeutet das Akronym 'CSS'?",
+        "Antworten": [
+            "Computer System Security",
+            "Cascading Style Sheets",
+            "Code Syntax Structure",
+            "Centralized Style System"
+        ],
+        "RichtigeAntwort": "Cascading Style Sheets"
+    },
+    {
+        "Frage": "Welche Programmiersprache wird oft für die Entwicklung von Android-Apps verwendet?",
+        "Antworten": [
+            "Swift",
+            "Java",
+            "C++",
+            "Python"
+        ],
+        "RichtigeAntwort": "Java"
+    },
+    {
+        "Frage": "Was ist Git?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Versionskontrollsystem",
+            "Ein Betriebssystem",
+            "Ein Texteditor"
+        ],
+        "RichtigeAntwort": "Ein Versionskontrollsystem"
+    },
+    {
+        "Frage": "Was ist ein 'Bug' in der Softwareentwicklung?",
+        "Antworten": [
+            "Ein unerwünschtes Ereignis im Programmablauf",
+            "Ein Sicherheitsrisiko",
+            "Ein Programmierfehler",
+            "Ein Hardware-Defekt"
+        ],
+        "RichtigeAntwort": "Ein Programmierfehler"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'Java' und 'JavaScript'?",
+        "Antworten": [
+            "Es gibt keinen Unterschied, es sind Synonyme",
+            "Java ist eine Kaffeesorte",
+            "JavaScript ist eine objektorientierte Sprache, während Java kompiliert wird",
+            "Java wird für Webentwicklung verwendet, JavaScript für Anwendungen"
+        ],
+        "RichtigeAntwort": "JavaScript ist eine objektorientierte Sprache, während Java kompiliert wird"
+    },
+    {
+        "Frage": "Welche Art von Datenstruktur ist eine Warteschlange?",
+        "Antworten": [
+            "Verkettete Liste",
+            "Stapel",
+            "Assoziatives Array",
+            "Lineare Liste"
+        ],
+        "RichtigeAntwort": "Verkettete Liste"
+    },
+    {
+        "Frage": "Was ist die Bedeutung von 'API'?",
+        "Antworten": [
+            "Analoge Programmier-Integration",
+            "Application Programming Interface",
+            "Automated Program Invocation",
+            "Advanced Programming Interface"
+        ],
+        "RichtigeAntwort": "Application Programming Interface"
+    },
+    {
+        "Frage": "Welcher Begriff bezeichnet das Testen von Software, um sicherzustellen, dass sie wie erwartet funktioniert?",
+        "Antworten": [
+            "Beta-Test",
+            "Alpha-Test",
+            "Unit-Test",
+            "Quality Assurance"
+        ],
+        "RichtigeAntwort": "Quality Assurance"
+    },
+    {
+        "Frage": "Was ist 'Python' in der Programmierung?",
+        "Antworten": [
+            "Eine Schlange",
+            "Ein Typ von Variablen",
+            "Eine Programmiersprache",
+            "Ein Algorithmus"
+        ],
+        "RichtigeAntwort": "Eine Programmiersprache"
+    },
+    {
+        "Frage": "Was ist der Zweck von SQL in der Datenbankentwicklung?",
+        "Antworten": [
+            "Datenvisualisierung",
+            "Softwareinstallation",
+            "Datenbankabfragen",
+            "Verschlüsselung von Daten"
+        ],
+        "RichtigeAntwort": "Datenbankabfragen"
+    },
+    {
+        "Frage": "Welche Art von Programmiersprache ist C++?",
+        "Antworten": [
+            "Skriptsprache",
+            "Assemblersprache",
+            "Maschinensprache",
+            "Hochsprache"
+        ],
+        "RichtigeAntwort": "Hochsprache"
+    },
+    {
+        "Frage": "Was ist 'Object-Oriented Programming' (OOP)?",
+        "Antworten": [
+            "Ein Softwareentwicklungsmodell",
+            "Ein Programmierparadigma",
+            "Ein Algorithmus",
+            "Ein Compiler"
+        ],
+        "RichtigeAntwort": "Ein Programmierparadigma"
+    },
+    {
+        "Frage": "Was bedeutet 'HTML5'?",
+        "Antworten": [
+            "Hypertext Markup Language",
+            "High-Level Text Management Language",
+            "Hyperlink and Text Markup Language",
+            "Hypertext Markup Language, Version 5"
+        ],
+        "RichtigeAntwort": "Hypertext Markup Language, Version 5"
+    },
+    {
+        "Frage": "Welche Programmiersprache wurde von Google entwickelt und ist weit verbreitet für Webentwicklung und maschinelles Lernen?",
+        "Antworten": [
+            "Java",
+            "C#",
+            "Python",
+            "Ruby"
+        ],
+        "RichtigeAntwort": "Python"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'AJAX' in der Webentwicklung?",
+        "Antworten": [
+            "Ein Webframework",
+            "Ein Verschlüsselungsalgorithmus",
+            "Eine Programmiersprache",
+            "Eine Technik für asynchrone Datenübertragung"
+        ],
+        "RichtigeAntwort": "Eine Technik für asynchrone Datenübertragung"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'Java' und 'JavaScript'?",
+        "Antworten": [
+            "Es gibt keinen Unterschied, es sind Synonyme",
+            "Java ist eine Kaffeesorte",
+            "JavaScript ist eine objektorientierte Sprache, während Java kompiliert wird",
+            "Java wird für Webentwicklung verwendet, JavaScript für Anwendungen"
+        ],
+        "RichtigeAntwort": "JavaScript ist eine objektorientierte Sprache, während Java kompiliert wird"
+    },
+    {
+        "Frage": "Was ist 'Git'?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Versionskontrollsystem",
+            "Ein Betriebssystem",
+            "Ein Texteditor"
+        ],
+        "RichtigeAntwort": "Ein Versionskontrollsystem"
+    },
+    {
+        "Frage": "Was ist ein 'Bug' in der Softwareentwicklung?",
+        "Antworten": [
+            "Ein unerwünschtes Ereignis im Programmablauf",
+            "Ein Sicherheitsrisiko",
+            "Ein Programmierfehler",
+            "Ein Hardware-Defekt"
+        ],
+        "RichtigeAntwort": "Ein Programmierfehler"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'Frontend' und 'Backend' in der Webentwicklung?",
+        "Antworten": [
+            "Es gibt keinen Unterschied",
+            "Frontend ist für Benutzer sichtbar, Backend verarbeitet Daten",
+            "Frontend ist für Datenbankzugriff zuständig, Backend für die Benutzeroberfläche",
+            "Frontend und Backend sind Synonyme"
+        ],
+        "RichtigeAntwort": "Frontend ist für Benutzer sichtbar, Backend verarbeitet Daten"
+    },
+    {
+        "Frage": "Welches Konzept in der objektorientierten Programmierung ermöglicht das Erben von Eigenschaften und Methoden einer Klasse durch eine andere Klasse?",
+        "Antworten": [
+            "Überladung",
+            "Polymorphismus",
+            "Vererbung",
+            "Kapselung"
+        ],
+        "RichtigeAntwort": "Vererbung"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'REST' in der Webentwicklung?",
+        "Antworten": [
+            "Ein Sicherheitsprotokoll",
+            "Ein Datenbankmanagementsystem",
+            "Ein Webframework",
+            "Ein Architekturstil für verteilte Systeme"
+        ],
+        "RichtigeAntwort": "Ein Architekturstil für verteilte Systeme"
+    },
+    {
+        "Frage": "Welche Art von Fehler tritt während der Kompilierung auf?",
+        "Antworten": [
+            "Syntaxfehler",
+            "Laufzeitfehler",
+            "Logikfehler",
+            "Verweisfehler"
+        ],
+        "RichtigeAntwort": "Syntaxfehler"
+    },
+    {
+        "Frage": "Was ist 'Scrum' in der Softwareentwicklung?",
+        "Antworten": [
+            "Ein Versionskontrollsystem",
+            "Ein Projektmanagement-Framework",
+            "Ein Datenbankmanagementsystem",
+            "Ein Verschlüsselungsalgorithmus"
+        ],
+        "RichtigeAntwort": "Ein Projektmanagement-Framework"
+    },
+    {
+        "Frage": "Was ist der Zweck einer 'for'-Schleife in der Programmierung?",
+        "Antworten": [
+            "Ausnahmen behandeln",
+            "Ein Block von Code wiederholt ausführen",
+            "Eine Funktion definieren",
+            "Daten sortieren"
+        ],
+        "RichtigeAntwort": "Ein Block von Code wiederholt ausführen"
+    },
+    {
+        "Frage": "Wofür steht die Abkürzung 'HTTP'?",
+        "Antworten": [
+            "HyperText Transfer Protocol",
+            "High-Tech Transfer Protocol",
+            "HyperTransfer Text Protocol",
+            "HyperText Transmission Protocol"
+        ],
+        "RichtigeAntwort": "HyperText Transfer Protocol"
+    },
+    {
+        "Frage": "In der Programmierung, was ist eine 'Variable'?",
+        "Antworten": [
+            "Ein konstanter Wert",
+            "Eine Datenstruktur",
+            "Ein Container zum Speichern von Daten",
+            "Eine mathematische Operation"
+        ],
+        "RichtigeAntwort": "Ein Container zum Speichern von Daten"
+    },
+    {
+        "Frage": "Was ist der Zweck der 'try...catch'-Anweisung in JavaScript?",
+        "Antworten": [
+            "Eine Funktion definieren",
+            "Asynchrone Ereignisse behandeln",
+            "Fehler behandeln",
+            "Bedingte Anweisungen erstellen"
+        ],
+        "RichtigeAntwort": "Fehler behandeln"
+    },
+    {
+        "Frage": "Welche Datenstruktur folgt dem Prinzip Last In, First Out (LIFO)?",
+        "Antworten": [
+            "Queue",
+            "Stack",
+            "Verkettete Liste",
+            "Baum"
+        ],
+        "RichtigeAntwort": "Stack"
+    },
+    {
+        "Frage": "Was ist 'Django' im Kontext der Webentwicklung?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Webserver",
+            "Ein Webframework für Python",
+            "Ein Datenbankmanagementsystem"
+        ],
+        "RichtigeAntwort": "Ein Webframework für Python"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'npm' in Node.js?",
+        "Antworten": [
+            "Node Package Manager, Verwaltung von Projektabhängigkeiten",
+            "Numerisches Programmiermodul",
+            "Node Process Manager",
+            "Netzwerkprotokollmodul"
+        ],
+        "RichtigeAntwort": "Node Package Manager, Verwaltung von Projektabhängigkeiten"
+    },
+    {
+        "Frage": "Wofür steht die Abkürzung 'API' im Kontext der Webentwicklung?",
+        "Antworten": [
+            "Automated Programming Interface",
+            "Application Programming Interface",
+            "Advanced Protocol Integration",
+            "Asynchronous Process Invocation"
+        ],
+        "RichtigeAntwort": "Application Programming Interface"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen '== ' und '=== ' in JavaScript?",
+        "Antworten": [
+            "Kein Unterschied, austauschbar",
+            "Strenge Gleichheit und Typüberprüfung",
+            "Zuweisungsoperator und Gleichheitsoperator",
+            "Logisches ODER und logisches UND"
+        ],
+        "RichtigeAntwort": "Strenge Gleichheit und Typüberprüfung"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'Rust' Programmiersprache?",
+        "Antworten": [
+            "Webentwicklung",
+            "Systemprogrammierung mit Fokus auf Sicherheit",
+            "Datenanalyse",
+            "Künstliche Intelligenz"
+        ],
+        "RichtigeAntwort": "Systemprogrammierung mit Fokus auf Sicherheit"
+    },
+    {
+        "Frage": "Was bedeutet der Begriff 'Callback-Funktion' in JavaScript?",
+        "Antworten": [
+            "Eine Funktion, die eine andere Funktion aufruft",
+            "Eine als Argument an eine andere Funktion übergebene Funktion",
+            "Eine Funktion, die mathematische Berechnungen durchführt",
+            "Eine Funktion, die einen Wert zurückgibt"
+        ],
+        "RichtigeAntwort": "Eine als Argument an eine andere Funktion übergebene Funktion"
+    },
+    {
+        "Frage": "In der objektorientierten Programmierung, was ist 'Kapselung'?",
+        "Antworten": [
+            "Vererbung von Eigenschaften",
+            "Bündelung von Daten und Methoden, die auf die Daten wirken",
+            "Dynamische Methodenbindung",
+            "Polymorphismus"
+        ],
+        "RichtigeAntwort": "Bündelung von Daten und Methoden, die auf die Daten wirken"
+    },
+    {
+        "Frage": "Was ist der Zweck des 'else'-Blocks in bedingten Anweisungen?",
+        "Antworten": [
+            "Eine neue Codeblock definieren",
+            "Code nur ausführen, wenn eine bestimmte Bedingung erfüllt ist",
+            "Fehler behandeln",
+            "Code ausführen, wenn die vorherige Bedingung falsch ist"
+        ],
+        "RichtigeAntwort": "Code ausführen, wenn die vorherige Bedingung falsch ist"
+    },
+    {
+        "Frage": "Was bedeutet 'IoT' in der Programmierung?",
+        "Antworten": [
+            "Internet der Dinge",
+            "Input/Output-Technologie",
+            "Integrierte Objekttechnologie",
+            "Intelligentes Objekt-Tracking"
+        ],
+        "RichtigeAntwort": "Internet der Dinge"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'Redux' in React.js?",
+        "Antworten": [
+            "Eine Styling-Bibliothek",
+            "Eine State-Management-Bibliothek",
+            "Eine Routing-Bibliothek",
+            "Eine Test-Bibliothek"
+        ],
+        "RichtigeAntwort": "Eine State-Management-Bibliothek"
+    },
+    {
+        "Frage": "In Java, was ist der Zweck des 'finally'-Blocks in einer 'try...catch'-Anweisung?",
+        "Antworten": [
+            "Eine neue Codeblock definieren",
+            "Fehler behandeln",
+            "Code nur ausführen, wenn eine bestimmte Bedingung erfüllt ist",
+            "Sicherstellen, dass ein Codeblock immer ausgeführt wird, egal ob eine Ausnahme auftritt oder nicht"
+        ],
+        "RichtigeAntwort": "Sicherstellen, dass ein Codeblock immer ausgeführt wird, egal ob eine Ausnahme auftritt oder nicht"
+    },
+    {
+        "Frage": "Was bedeutet 'AJAX' in der Webentwicklung?",
+        "Antworten": [
+            "Asynchrones JavaScript und XML",
+            "Fortgeschrittenes JavaScript und XML",
+            "Asynchrones JSON und XHTML",
+            "Automatisiertes JavaScript und XML"
+        ],
+        "RichtigeAntwort": "Asynchrones JavaScript und XML"
+    },
+    {
+        "Frage": "Was ist der Zweck des 'volatile'-Schlüsselworts in Java?",
+        "Antworten": [
+            "Sicherstellen, dass eine Variable niemals geändert wird",
+            "Anzeigen, dass eine Variable konstant ist",
+            "Markierung einer Variable als threadsicher",
+            "Anzeigen, dass der Wert einer Variable von mehreren Threads geändert werden kann"
+        ],
+        "RichtigeAntwort": "Anzeigen, dass der Wert einer Variable von mehreren Threads geändert werden kann"
+    },
+    {
+        "Frage": "Was ist die 'MVC'-Architektur in der Softwareentwicklung?",
+        "Antworten": [
+            "Modell, Ansicht, Controller",
+            "Modular, Visuell, Komponente",
+            "Haupt, Virtual, Kern",
+            "Markup, Ansicht, Controller"
+        ],
+        "RichtigeAntwort": "Modell, Ansicht, Controller"
+    },
+    {
+        "Frage": "Was ist 'GraphQL' in der Webentwicklung?",
+        "Antworten": [
+            "Ein Datenbankmanagementsystem",
+            "Eine Abfragesprache für APIs",
+            "Eine Programmiersprache",
+            "Ein Webserver"
+        ],
+        "RichtigeAntwort": "Eine Abfragesprache für APIs"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'async' und 'await' in JavaScript?",
+        "Antworten": [
+            "Synchrones Programmieren",
+            "Asynchrones Programmieren",
+            "Fehlerbehandlung",
+            "Variablendeklaration"
+        ],
+        "RichtigeAntwort": "Asynchrones Programmieren"
+    },
+    {
+        "Frage": "Was bedeutet der Begriff 'RESTful' in der Webentwicklung?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Webframework",
+            "Ein Architekturstil für das Design von vernetzten Anwendungen",
+            "Ein Datenbankmanagementsystem"
+        ],
+        "RichtigeAntwort": "Ein Architekturstil für das Design von vernetzten Anwendungen"
+    },
+    {
+        "Frage": "Was ist 'Angular' im Kontext der Webentwicklung?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Datenbankmanagementsystem",
+            "Ein Webframework",
+            "Ein Versionskontrollsystem"
+        ],
+        "RichtigeAntwort": "Ein Webframework"
+    },
+    {
+        "Frage": "In Python, was ist der Zweck des 'pip'-Tools?",
+        "Antworten": [
+            "Python Imaging Package",
+            "Python Input Processor",
+            "Paketinstallationsprogramm für Python",
+            "Python Integrated Profiler"
+        ],
+        "RichtigeAntwort": "Paketinstallationsprogramm für Python"
+    },
+    {
+        "Frage": "Was ist 'Jenkins' im Kontext der kontinuierlichen Integration?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Webserver",
+            "Ein Werkzeug für kontinuierliche Integration und kontinuierliche Bereitstellung",
+            "Ein Datenbankmanagementsystem"
+        ],
+        "RichtigeAntwort": "Ein Werkzeug für kontinuierliche Integration und kontinuierliche Bereitstellung"
+    },
+    {
+        "Frage": "Was bietet 'Docker' in der Softwareentwicklung?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Eine Virtualisierungsplattform für Containerisierung",
+            "Ein Datenbankmanagementsystem",
+            "Ein Webserver"
+        ],
+        "RichtigeAntwort": "Eine Virtualisierungsplattform für Containerisierung"
+    },
+    {
+        "Frage": "Was ist der Zweck der Programmiersprache 'Swift'?",
+        "Antworten": [
+            "Webentwicklung",
+            "Systemprogrammierung",
+            "iOS- und macOS-App-Entwicklung",
+            "Künstliche Intelligenz"
+        ],
+        "RichtigeAntwort": "iOS- und macOS-App-Entwicklung"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'const' und 'let' in JavaScript?",
+        "Antworten": [
+            "Beide sind identisch",
+            "const ist für Konstanten, let für Variablen",
+            "let ist für Konstanten, const für Variablen",
+            "const ist veraltet, let ist moderner"
+        ],
+        "RichtigeAntwort": "const ist für Konstanten, let für Variablen"
+    },
+    {
+        "Frage": "Welche Art von Fehler tritt während der Laufzeit auf?",
+        "Antworten": [
+            "Syntaxfehler",
+            "Kompilierungsfehler",
+            "Laufzeitfehler",
+            "Verweisfehler"
+        ],
+        "RichtigeAntwort": "Laufzeitfehler"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'React' in der Webentwicklung?",
+        "Antworten": [
+            "Eine Programmiersprache",
+            "Ein Datenbankmanagementsystem",
+            "Ein Frontend-Bibliothek für Benutzeroberflächen",
+            "Ein Versionskontrollsystem"
+        ],
+        "RichtigeAntwort": "Ein Frontend-Bibliothek für Benutzeroberflächen"
+    },
+    {
+        "Frage": "Was bedeutet 'SOLID' in der objektorientierten Programmierung?",
+        "Antworten": [
+            "Eine Abkürzung für häufige Programmierprinzipien",
+            "Ein Softwareentwicklungsframework",
+            "Ein Versionskontrollsystem",
+            "Ein Algorithmenkonzept"
+        ],
+        "RichtigeAntwort": "Eine Abkürzung für häufige Programmierprinzipien"
+    },
+    {
+        "Frage": "Welche Funktion erfüllt 'npm start' in einem Node.js-Projekt?",
+        "Antworten": [
+            "Das Projekt kompilieren",
+            "Eine Testumgebung starten",
+            "Den Entwicklungswebserver starten",
+            "Projektabhängigkeiten installieren"
+        ],
+        "RichtigeAntwort": "Den Entwicklungswebserver starten"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'GET' und 'POST' in HTTP-Anfragen?",
+        "Antworten": [
+            "Kein Unterschied, beide sind identisch",
+            "'GET' wird für Datenänderungen verwendet, 'POST' für Datenabrufe",
+            "'GET' wird für Datenabrufe verwendet, 'POST' für Datenänderungen",
+            "'GET' ist sicherer als 'POST'"
+        ],
+        "RichtigeAntwort": "'GET' wird für Datenabrufe verwendet, 'POST' für Datenänderungen"
+    },
+    {
+        "Frage": "Welches Designmuster ermöglicht die Definition von Algorithmen in einer Klasse, aber lässt die Unterklassen Methoden neu implementieren?",
+        "Antworten": [
+            "Singleton-Muster",
+            "Fabrikmuster",
+            "Strategiemuster",
+            "Beobachtermuster"
+        ],
+        "RichtigeAntwort": "Strategiemuster"
+    },
+    {
+        "Frage": "Was ist 'Dart' in der Programmierung?",
+        "Antworten": [
+            "Ein Webframework",
+            "Ein Datenbankmanagementsystem",
+            "Eine Programmiersprache für die Entwicklung von mobilen Apps",
+            "Ein Verschlüsselungsalgorithmus"
+        ],
+        "RichtigeAntwort": "Eine Programmiersprache für die Entwicklung von mobilen Apps"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'localStorage' in JavaScript?",
+        "Antworten": [
+            "Für die serverseitige Datenspeicherung",
+            "Für die clientseitige Datenspeicherung im Browser",
+            "Für die Datenbankverbindung",
+            "Für die Anzeige von Benutzeroberflächen"
+        ],
+        "RichtigeAntwort": "Für die clientseitige Datenspeicherung im Browser"
+    },
+    {
+        "Frage": "Welche Rolle spielt eine 'Middleware' in der Webentwicklung?",
+        "Antworten": [
+            "Die Benutzeroberfläche gestalten",
+            "Zwischen Frontend und Backend vermitteln",
+            "Die Datenbank verwalten",
+            "Die Benutzerauthentifizierung durchführen"
+        ],
+        "RichtigeAntwort": "Zwischen Frontend und Backend vermitteln"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'undefined' und 'null' in JavaScript?",
+        "Antworten": [
+            "Beide sind identisch",
+            "'undefined' wird explizit zugewiesen, 'null' nicht",
+            "'null' wird explizit zugewiesen, 'undefined' nicht",
+            "'undefined' ist ein Objekt, 'null' ist ein Primitivwert"
+        ],
+        "RichtigeAntwort": "'null' wird explizit zugewiesen, 'undefined' nicht"
+    },
+    {
+        "Frage": "Welche Rolle spielt 'Maven' in der Java-Entwicklung?",
+        "Antworten": [
+            "Ein Build-Management-Tool",
+            "Ein Versionskontrollsystem",
+            "Ein Datenbankmanagementsystem",
+            "Ein Webframework"
+        ],
+        "RichtigeAntwort": "Ein Build-Management-Tool"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'try...finally' in der Fehlerbehandlung?",
+        "Antworten": [
+            "Eine neue Codeblock definieren",
+            "Fehler behandeln",
+            "Code nur ausführen, wenn eine bestimmte Bedingung erfüllt ist",
+            "Sicherstellen, dass ein Codeblock immer ausgeführt wird"
+        ],
+        "RichtigeAntwort": "Sicherstellen, dass ein Codeblock immer ausgeführt wird"
+    },
+    {
+        "Frage": "Was ist der Unterschied zwischen 'git pull' und 'git fetch'?",
+        "Antworten": [
+            "Beide sind identisch",
+            "'git pull' aktualisiert den lokalen Branch, 'git fetch' holt Änderungen ohne Zusammenführung",
+            "'git fetch' aktualisiert den lokalen Branch, 'git pull' holt Änderungen ohne Zusammenführung",
+            "'git pull' und 'git fetch' sind veraltet"
+        ],
+        "RichtigeAntwort": "'git pull' aktualisiert den lokalen Branch, 'git fetch' holt Änderungen ohne Zusammenführung"
+    },
+    {
+        "Frage": "Was bedeutet 'DOM' in Bezug auf Webentwicklung?",
+        "Antworten": [
+            "Document Object Model",
+            "Data Object Model",
+            "Development Object Model",
+            "Document Order Manager"
+        ],
+        "RichtigeAntwort": "Document Object Model"
+    },
+    {
+        "Frage": "Was ist 'Kotlin' in der Programmierung?",
+        "Antworten": [
+            "Ein Webframework",
+            "Ein Datenbankmanagementsystem",
+            "Eine statisch typisierte Programmiersprache für die JVM",
+            "Ein Frontend-Bibliothek"
+        ],
+        "RichtigeAntwort": "Eine statisch typisierte Programmiersprache für die JVM"
+    },
+    {
+        "Frage": "Welche Programmiersprache wurde für die Entwicklung von TensorFlow verwendet?",
+        "Antworten": [
+            "Java",
+            "Python",
+            "C++",
+            "JavaScript"
+        ],
+        "RichtigeAntwort": "Python"
+    },
+    {
+        "Frage": "Was ist der Zweck von 'CORS' in der Webentwicklung?",
+        "Antworten": [
+            "Client Object Rendering System",
+            "Cross-Origin Resource Sharing",
+            "Client Optimization and Response System",
+            "Centralized Object Rendering Service"
+        ],
+        "RichtigeAntwort": "Cross-Origin Resource Sharing"
+    },
+    {
+        "Frage": "Was ist 'npm' in Node.js?",
+        "Antworten": [
+            "Node Package Manager",
+            "Node Process Manager",
+            "Numerical Programming Module",
+            "Node Project Manager"
+        ],
+        "RichtigeAntwort": "Node Package Manager"
+    },
+    {
+        "Frage": "Was versteht man unter 'Refactoring' in der Softwareentwicklung?",
+        "Antworten": [
+            "Das Hinzufügen neuer Funktionen zu einem Programm",
+            "Die Neugestaltung eines bestehenden Codes, um ihn zu verbessern",
+            "Die Anpassung von Software an unterschiedliche Plattformen",
+            "Die Dokumentation von Quellcode"
+        ],
+        "RichtigeAntwort": "Die Neugestaltung eines bestehenden Codes, um ihn zu verbessern"
+    },
+    {
+        "Frage": "Was bedeutet 'AJAX' in der Webentwicklung?",
+        "Antworten": [
+            "Asynchronous JavaScript and XML",
+            "Advanced JavaScript and XML",
+            "Asynchronous JSON and XHTML",
+            "Automated JavaScript and XML"
+        ],
+        "RichtigeAntwort": "Asynchronous JavaScript and XML"
+    }
+]
