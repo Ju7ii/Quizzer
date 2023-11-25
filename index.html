@@ -6,69 +6,351 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="./style.css">
-    <script src="./app.js" defer></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/svg_transition.css">
+    <script src="./js/app.js" defer></script>
 
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js" defer></script>
 
-    <title>Brain Busters</title>
+    <title>Quizzer</title>
 
 </head>
 
 <body>
 
-    <div class="page position-absolute top-0 start-0 bottom-0 end-0">
+    <h1 class="text-center mt-5 mb-5 text-white sr-only">Welcome to Quizzer</h1>
 
-        <h1 class="text-center mt-5 mb-5 text-white">Welcome to Quizzer</h1>
+    <!--$ MAIN PAGE $-->
 
-        <div class="container-lg">
 
-            <div id="quiz-container">
+    <!--$ LOGO $-->
+    <div class="page-logo col-8 position-fixed top-50 start-50 translate-middle d-none">
 
-                <h2 id="question" class="text-center mt-3 mb-3 text-white">Question</h2>
+        <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 1920.00 1080.00" width="100%"
+            height="auto">
+            <path fill="#0d6efd" d="
+                  M 305.01 633.69
+                  L 343.59 684.93
+                  A 0.40 0.39 -37.2 0 1 343.51 685.48
+                  L 269.02 741.34
+                  Q 268.53 741.70 268.17 741.22
+                  L 226.46 685.48
+                  A 0.66 0.65 63.7 0 0 225.76 685.24
+                  Q 215.84 687.97 205.75 689.78
+                  Q 198.94 691.01 182.75 691.61
+                  Q 161.17 692.41 136.06 684.88
+                  Q 81.21 668.41 48.71 622.52
+                  C 13.21 572.40 12.52 505.66 46.26 454.47
+                  Q 64.70 426.47 93.28 408.06
+                  Q 119.64 391.07 147.76 384.94
+                  Q 150.71 384.29 160.07 383.05
+                  C 171.85 381.48 184.54 381.14 195.75 382.24
+                  C 202.84 382.94 213.24 384.44 221.25 386.73
+                  C 262.61 398.56 298.73 424.34 320.20 462.02
+                  C 351.53 516.99 345.65 584.07 305.04 632.71
+                  Q 304.63 633.19 305.01 633.69
+                  Z
+                  M 248.91 536.66
+                  A 68.02 68.02 0.0 0 0 180.89 468.64
+                  A 68.02 68.02 0.0 0 0 112.87 536.66
+                  A 68.02 68.02 0.0 0 0 180.89 604.68
+                  A 68.02 68.02 0.0 0 0 248.91 536.66
+                  Z" class="svg-elem-1"></path>
+            <path fill="#0d6efd" d="
+                  M 635.20 623.12
+                  C 621.32 652.11 596.33 673.53 566.27 683.77
+                  Q 555.17 687.56 541.71 689.55
+                  Q 512.57 693.86 488.25 689.80
+                  C 469.09 686.60 450.42 680.17 434.11 668.77
+                  Q 394.30 640.96 385.49 591.75
+                  Q 383.01 577.88 383.00 561.50
+                  Q 382.95 475.00 383.01 388.50
+                  Q 383.01 388.00 383.51 388.00
+                  L 476.49 388.00
+                  A 0.45 0.45 0.0 0 1 476.94 388.45
+                  Q 476.90 478.45 476.95 568.25
+                  Q 476.95 576.45 480.90 586.07
+                  C 487.79 602.86 506.57 609.31 523.43 606.09
+                  C 545.92 601.79 553.47 583.14 553.42 562.25
+                  Q 553.21 475.40 553.21 388.54
+                  Q 553.21 388.00 553.75 388.00
+                  L 647.23 388.00
+                  Q 647.50 388.00 647.50 388.27
+                  Q 647.56 476.72 647.46 565.25
+                  C 647.44 584.17 643.61 605.58 635.20 623.12
+                  Z" class="svg-elem-2"></path>
+            <rect fill="#0d6efd" x="706.21" y="388.00" width="94.32" height="297.74" rx="0.34" class="svg-elem-3">
+            </rect>
+            <path fill="#0d6efd" d="
+                  M 1070.47 603.57
+                  L 1070.47 685.43
+                  A 0.32 0.32 0.0 0 1 1070.15 685.75
+                  L 847.44 685.75
+                  A 0.32 0.32 0.0 0 1 847.12 685.43
+                  L 847.12 617.88
+                  A 0.32 0.32 0.0 0 1 847.18 617.70
+                  L 951.58 470.76
+                  A 0.32 0.32 0.0 0 0 951.32 470.25
+                  L 854.19 470.25
+                  A 0.32 0.32 0.0 0 1 853.87 469.93
+                  L 853.87 388.32
+                  A 0.32 0.32 0.0 0 1 854.19 388.00
+                  L 1066.92 388.00
+                  A 0.32 0.32 0.0 0 1 1067.24 388.32
+                  L 1067.24 456.10
+                  A 0.32 0.32 0.0 0 1 1067.18 456.28
+                  L 963.78 602.75
+                  A 0.32 0.32 0.0 0 0 964.04 603.25
+                  L 1070.15 603.25
+                  A 0.32 0.32 0.0 0 1 1070.47 603.57
+                  Z" class="svg-elem-4"></path>
+            <path fill="#0d6efd" d="
+                  M 1328.38 603.56
+                  L 1328.38 685.44
+                  A 0.31 0.31 0.0 0 1 1328.07 685.75
+                  L 1105.35 685.75
+                  A 0.31 0.31 0.0 0 1 1105.04 685.44
+                  L 1105.04 617.88
+                  A 0.31 0.31 0.0 0 1 1105.10 617.70
+                  L 1209.51 470.74
+                  A 0.31 0.31 0.0 0 0 1209.26 470.25
+                  L 1112.10 470.25
+                  A 0.31 0.31 0.0 0 1 1111.79 469.94
+                  L 1111.79 388.31
+                  A 0.31 0.31 0.0 0 1 1112.10 388.00
+                  L 1324.82 388.00
+                  A 0.31 0.31 0.0 0 1 1325.13 388.31
+                  L 1325.13 456.15
+                  A 0.31 0.31 0.0 0 1 1325.07 456.33
+                  L 1221.69 602.76
+                  A 0.31 0.31 0.0 0 0 1221.94 603.25
+                  L 1328.07 603.25
+                  A 0.31 0.31 0.0 0 1 1328.38 603.56
+                  Z" class="svg-elem-5"></path>
+            <path fill="#0d6efd" d="
+                  M 1468.99 470.61
+                  L 1468.99 495.39
+                  A 0.36 0.36 0.0 0 0 1469.35 495.75
+                  L 1582.33 495.75
+                  A 0.36 0.36 0.0 0 1 1582.69 496.11
+                  L 1582.69 577.64
+                  A 0.36 0.36 0.0 0 1 1582.33 578.00
+                  L 1469.34 578.00
+                  A 0.36 0.36 0.0 0 0 1468.98 578.36
+                  L 1468.99 602.89
+                  A 0.36 0.36 0.0 0 0 1469.35 603.25
+                  L 1601.59 603.25
+                  A 0.36 0.36 0.0 0 1 1601.95 603.61
+                  L 1601.95 685.39
+                  A 0.36 0.36 0.0 0 1 1601.59 685.75
+                  L 1375.36 685.75
+                  A 0.36 0.36 0.0 0 1 1375.00 685.39
+                  L 1375.00 388.36
+                  A 0.36 0.36 0.0 0 1 1375.36 388.00
+                  L 1594.68 388.00
+                  A 0.36 0.36 0.0 0 1 1595.04 388.36
+                  L 1595.04 469.89
+                  A 0.36 0.36 0.0 0 1 1594.68 470.25
+                  L 1469.35 470.25
+                  A 0.36 0.36 0.0 0 0 1468.99 470.61
+                  Z" class="svg-elem-6"></path>
+            <path fill="#0d6efd" d="
+                  M 1746.51 595.99
+                  L 1746.52 685.49
+                  A 0.26 0.26 0.0 0 1 1746.26 685.75
+                  L 1652.77 685.75
+                  A 0.24 0.23 0.0 0 1 1652.53 685.52
+                  L 1652.53 388.26
+                  A 0.27 0.27 0.0 0 1 1652.80 387.99
+                  Q 1713.11 388.00 1773.50 388.06
+                  C 1785.88 388.07 1798.51 388.87 1810.33 391.60
+                  Q 1823.67 394.68 1835.30 399.95
+                  C 1872.36 416.75 1894.85 452.22 1894.63 492.75
+                  C 1894.45 524.91 1879.27 554.81 1852.91 573.44
+                  Q 1852.46 573.76 1852.74 574.24
+                  L 1916.66 685.06
+                  Q 1917.06 685.75 1916.27 685.75
+                  L 1813.32 685.75
+                  Q 1812.81 685.75 1812.56 685.31
+                  L 1760.87 595.76
+                  Q 1760.72 595.50 1760.42 595.50
+                  L 1747.01 595.50
+                  Q 1746.51 595.50 1746.51 595.99
+                  Z
+                  M 1807.64 487.87
+                  Q 1806.33 477.84 1797.04 473.92
+                  Q 1788.79 470.43 1775.74 470.29
+                  Q 1761.39 470.13 1746.97 470.30
+                  Q 1746.51 470.30 1746.51 470.77
+                  L 1746.51 512.72
+                  Q 1746.51 513.13 1746.93 513.14
+                  Q 1771.82 513.56 1783.00 513.02
+                  Q 1787.95 512.78 1794.79 510.50
+                  C 1804.92 507.12 1809.05 498.60 1807.64 487.87
+                  Z" class="svg-elem-7"></path>
+        </svg>
 
-                <div class="container-fluid">
+    </div>
 
-                    <div id="options-container" class="row mt-3 mb-3">
-                        
-                        <button type="button" class="btn btn-light col ms-2 me-2">Answer 1</button>
+    <!--$ QUIZ SELECTION $-->
+    <div id="quiz-selection" class="container-lg p-3 d-none">
 
-                        <button type="button" class="btn btn-light col ms-2 me-2">Answer 2</button>
+        <h2 class="text-center my-3">Please select a quiz you want to play</h2>
 
+        <div class="container-fluid text-center p-3">
+
+            <div class="row my-4 align-items-stretch gap-4">
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/pizza-svgrepo-com.svg" class="card-img-top"
+                        alt="Slice of pizza">
+                    <div class="card-body">
+                        <h5 class="card-title">Food Quiz</h5>
+                        <p class="card-text">Test your knowledge about different types of food.</p>
                     </div>
-
-                    <div id="options-container" class="row mt-3 mb-3">
-                        
-                        <button type="button" class="btn btn-light col ms-2 me-2">Answer 3</button>
-
-                        <button type="button" class="btn btn-light col ms-2 me-2">Answer 4</button>
-
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
                     </div>
+                </div>
 
-                    <div id="check-button-container" class="d-grid gap-2 col-6 mx-auto">
-
-                        <button type="button" class="btn btn-primary" disabled>Answer 3</button>
-
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/geography-map-svgrepo-com.svg"
+                        class="card-img-top" alt="Geography map with finger pointing on it">
+                    <div class="card-body">
+                        <h5 class="card-title">Geography Quiz</h5>
+                        <p class="card-text">Explore your knowledge about world geography.</p>
                     </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
 
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/museum-svgrepo-com.svg" class="card-img-top"
+                        alt="Old museum building">
+                    <div class="card-body ">
+                        <h5 class="card-title">History Quiz</h5>
+                        <p class="card-text">Dive into the past and test your history knowledge.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/music-svgrepo-com.svg" class="card-img-top"
+                        alt="Music notes">
+                    <div class="card-body">
+                        <h5 class="card-title">Music Quiz</h5>
+                        <p class="card-text">How well do you know your music? Take the quiz to find out.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div class="row my-4 align-items-stretch gap-4">
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/science-test-tube-svgrepo-com.svg"
+                        class="card-img-top" alt="Science test tube">
+                    <div class="card-body">
+                        <h5 class="card-title">Science Quiz</h5>
+                        <p class="card-text">Explore the wonders of science with our quiz.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/space-svgrepo-com.svg" class="card-img-top"
+                        alt="Planet with stars">
+                    <div class="card-body">
+                        <h5 class="card-title">Space Quiz</h5>
+                        <p class="card-text">Discover the mysteries of the universe in our space quiz.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px" src="./assets/img/sports-svgrepo-com.svg" class="card-img-top"
+                        alt="Basketball and tennisball">
+                    <div class="card-body">
+                        <h5 class="card-title">Sports Quiz</h5>
+                        <p class="card-text">Test your knowledge of various sports with our quiz.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
+                </div>
+
+                <div class="card col-sm-12 col-md-2 flex-fill py-3">
+                    <img width="150px" height="150px"
+                        src="./assets/img/technology-digital-transformation-machinery-engineering-industry-svgrepo-com.svg"
+                        class="card-img-top" alt="Technology building">
+                    <div class="card-body">
+                        <h5 class="card-title">Technology Quiz</h5>
+                        <p class="card-text">Explore the world of technology with our quiz.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary w-100">Take Quiz</a>
+                    </div>
                 </div>
 
             </div>
 
-            <!-- <div id="result-container">
-
-                <h2>Result</h2>
-
-                <p id="result">
-
-                </p>
-
-            </div> -->
 
         </div>
 
     </div>
+
+    <!--$ GET QUIZ QUESTIONS LOADING SCREEN $-->
+    <div id="quiz-selection" class="container-lg p-3 d-none">
+        
+    </div>
+
+    <!--$ QUESTIONS GAME SCREEN $-->
+    <div class="container-lg d-none">
+
+        <h2 id="question" class="text-center mt-3 mb-3 text-white">Question</h2>
+
+        <div class="container-fluid">
+
+            <div id="options-container" class="row mt-3 mb-3">
+
+                <button type="button" class="btn btn-light col ms-2 me-2">Answer 1</button>
+
+                <button type="button" class="btn btn-light col ms-2 me-2">Answer 2</button>
+
+            </div>
+
+            <div id="options-container" class="row mt-3 mb-3">
+
+                <button type="button" class="btn btn-light col ms-2 me-2">Answer 3</button>
+
+                <button type="button" class="btn btn-light col ms-2 me-2">Answer 4</button>
+
+            </div>
+
+            <div id="check-button-container" class="d-grid gap-2 col-6 mx-auto">
+
+                <button type="button" class="btn btn-primary" disabled>Answer 3</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
 
 </body>
 
