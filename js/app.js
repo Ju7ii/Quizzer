@@ -137,6 +137,9 @@ function startQuiz(questions) {
             //* QUESTION QUESTION-COUNTER
             questionCounter++;
         }
+
+        showResult();
+
     }
 
     displayQuestions();
@@ -191,4 +194,8 @@ function checkAnswer(selectedAnswerIndex, correctAnswer, answerElementsHTML, but
 
 
     });
+}
+
+function showResult() {
+    
 }
