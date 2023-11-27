@@ -359,10 +359,22 @@
     </div>
 
     <!--$ RESULT SCREEN $-->
-    <div id="loading-questions" class="position-fixed top-50 start-50 translate-middle d-none">
-        <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Loading...</span>
+    <div id="game-result" class="position-fixed top-50 start-50 translate-middle container-lg d-none">
+
+        <h2 id="result-text" class="position-relative text-center my-5"></h2>
+
+        <div class="container">
+            <div class="row gap-2 justify-content-center">
+                <div class="col-md-5 col-sm-12">
+                    <button class="btn btn-success w-100" type="button" onclick="newQuiz();">Try another quiz</button>
+                </div>
+                <div class="col-md-5 col-sm-12">
+                    <button class="btn btn-danger w-100" type="button" onclick="window.close();">Leave</button>
+                </div>
+            </div>
         </div>
+
+
     </div>
 
 

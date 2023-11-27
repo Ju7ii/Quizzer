@@ -3,10 +3,11 @@ const LogoSVG = document.querySelector('.page-logo svg');
 const QuizSelection = document.getElementById('quiz-selection');
 const LoadingQuestions = document.getElementById('loading-questions');
 const QuestionGame = document.getElementById('question-game');
+const gameResultHTML = document.getElementById('game-result');
+const result = [];
 
 document.addEventListener("DOMContentLoaded", function () {
-    // initializeLogoFadeIn(); //TODO REMOVE COMMENT
-    initializeQuizSelectionFadeIn(); //TODO REMOVE
+    initializeLogoFadeIn();
 });
 
 function initializeLogoFadeIn() {
@@ -21,7 +22,7 @@ function initializeLogoFadeIn() {
     setTimeout(() => {
         console.log('FADE OUT');
         LogoSVG.classList.remove('active');
-    }, 5000);
+    }, 4000);
 
     setTimeout(() => {
         console.log('REMOVE WRAPPER');
@@ -138,6 +139,8 @@ function startQuiz(questions) {
             questionCounter++;
         }
 
+        QuestionGame.classList.add('d-none');
+
         showResult();
 
     }
@@ -160,11 +163,19 @@ function checkAnswer(selectedAnswerIndex, correctAnswer, answerElementsHTML, but
         console.log(selectedAnswerIndex);
         console.log(correctAnswer);
 
+        const inputs = document.getElementsByClassName('btn-check');
+
+        Array.from(inputs).forEach(input => {
+            input.disabled = true;
+        });
+
         if (selectedAnswerIndex == correctAnswer) {
 
             //* RIGHT ANSWER
             answerElementsHTML[selectedAnswerIndex - 1].classList.remove('btn-outline-primary');
             answerElementsHTML[selectedAnswerIndex - 1].classList.add('btn-success');
+
+            result.push(true);
 
         } else {
 
@@ -176,6 +187,7 @@ function checkAnswer(selectedAnswerIndex, correctAnswer, answerElementsHTML, but
             answerElementsHTML[correctAnswer - 1].classList.remove('btn-outline-primary');
             answerElementsHTML[correctAnswer - 1].classList.add('btn-success');
 
+            result.push(false);
         }
 
         button.textContent = 'Continue questions';
@@ -188,6 +200,10 @@ function checkAnswer(selectedAnswerIndex, correctAnswer, answerElementsHTML, but
                 element.classList.add('btn-outline-primary');
             });
 
+            Array.from(inputs).forEach(input => {
+                input.disabled = false;
+            });
+
             button.removeEventListener('click', () => { });
             resolve();
         });
@@ -197,5 +213,29 @@ function checkAnswer(selectedAnswerIndex, correctAnswer, answerElementsHTML, but
 }
 
 function showResult() {
-    
+
+
+    const resultTextHTML = document.getElementById('result-text');
+    const trueCount = result.filter(value => value === true).length;
+    let resultText;
+    gameResultHTML.classList.remove('d-none');
+
+    if (trueCount == 10) {
+        resultText = `Excellent, you answered all ${trueCount} questions correctly`;
+    } else if (trueCount <= 9 && trueCount >= 5) {
+        resultText = `Very good, you answered ${trueCount} correct questions`;
+    } else if (trueCount <= 5 && trueCount >= 1) {
+        resultText = `You answered ${trueCount} correct questions`
+    } else {
+        resultText = 'You might want to try another quiz';
+    }
+    resultTextHTML.textContent = resultText;
+}
+
+function newQuiz() {
+
+    gameResultHTML.classList.add('d-none');
+
+    QuizSelection.classList.remove('d-none');
+
 }
